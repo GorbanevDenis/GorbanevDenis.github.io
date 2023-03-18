@@ -1,13 +1,9 @@
 .oglavlenie{
-  font-size: medium;
+  font-size: 160px;
   align-items: center;
 }
 .nachalo{
-  font-size: medium;
+  font-size: large;
+  text-align: center;
+  vertical-align: middle;
 }
-body{
-    margin-left: auto;
-    margin-right: auto;
-    width: 6em
-  }
-  
