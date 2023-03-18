@@ -1,6 +1,7 @@
 .oglavlenie{
-  font-size: medium;
-  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px; 
 }
 .nachalo{
   font-size: medium;
